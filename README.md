@@ -14,7 +14,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/rendering-pdf-json.git
+   git clone https://github.com/your-username/dashboard.git
    ```
 
 2.** cd into project folder**
